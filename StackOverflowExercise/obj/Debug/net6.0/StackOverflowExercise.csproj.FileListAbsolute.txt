@@ -1,0 +1,15 @@
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\bin\Debug\net6.0\StackOverflowExercise.exe
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\bin\Debug\net6.0\StackOverflowExercise.deps.json
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\bin\Debug\net6.0\StackOverflowExercise.runtimeconfig.json
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\bin\Debug\net6.0\StackOverflowExercise.dll
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\bin\Debug\net6.0\ref\StackOverflowExercise.dll
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\bin\Debug\net6.0\StackOverflowExercise.pdb
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\obj\Debug\net6.0\StackOverflowExercise.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\obj\Debug\net6.0\StackOverflowExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\obj\Debug\net6.0\StackOverflowExercise.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\obj\Debug\net6.0\StackOverflowExercise.AssemblyInfo.cs
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\obj\Debug\net6.0\StackOverflowExercise.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\obj\Debug\net6.0\StackOverflowExercise.dll
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\obj\Debug\net6.0\ref\StackOverflowExercise.dll
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\obj\Debug\net6.0\StackOverflowExercise.pdb
+C:\Users\patri\source\repos\StackOverflowExercise\StackOverflowExercise\obj\Debug\net6.0\StackOverflowExercise.genruntimeconfig.cache
