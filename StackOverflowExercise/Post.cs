@@ -13,7 +13,6 @@ namespace StackOverflowExercise
         private string _dateTime;
         private int _upvote;
         private int _downvote;
-        private string _fullPost;
 
         public Post()
         {
@@ -30,7 +29,7 @@ namespace StackOverflowExercise
             Console.WriteLine("Please write a descprition of your post.");
             this._descritption = Console.ReadLine();
             this._dateTime = DateTime.Now.ToString("MM/dd/yyyy hh:mm tt");
-            Console.Write("Your Post: " + " | " + _title + " | " + _descritption + " | " + _dateTime);
+            Console.WriteLine("Your Post: " + _title + " | " + _descritption + " | " + _dateTime);
         }
 
         public void Vote()
@@ -40,7 +39,7 @@ namespace StackOverflowExercise
 
           
             
-                while (endVote = false)
+                while (endVote == false)
                 {
                     Console.WriteLine(
                         "Type and enter 'upvote' or 'downvote' to rate the post. When finished voting type 'done'.");
@@ -58,7 +57,7 @@ namespace StackOverflowExercise
                         endVote = true;
                     }
 
-                    Console.Write("Your Post: " + " | " + _title + " | " + _descritption + " | " + _dateTime);
+                    Console.Write("Your Post: " + _title + " | " + _descritption + " | " + _dateTime);
                     Console.WriteLine("You recieved: " + _upvote + " upvotes & " + _downvote + " downvotes");
                 }
             
